@@ -2,9 +2,9 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">许春昀正在沉思</title>
+    <title type="text">许春昀文集</title>
     <subtitle type="html">这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</subtitle>
-    <updated>2020-09-22T16:51:26&#43;08:00</updated>
+    <updated>2020-09-23T03:19:30&#43;08:00</updated>
     <id>https://xuchunyun.org/</id>
     <link rel="alternate" type="text/html" href="https://xuchunyun.org/" />
     <link rel="self" type="application/atom&#43;xml" href="https://xuchunyun.org/atom.xml" />
