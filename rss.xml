@@ -9,7 +9,7 @@
     <channel>
         <title>许春昀文集</title>
         <link>https://xuchunyun.org/</link>
-        <description>这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</description>
+        <description>这是许春昀的博客！用文章记录许春昀的生活和工作的感悟和思考的内容。许春昀是一位理想主义者，努力推动科普工作，让更多人认识到真正的科学！</description>
         <generator>Hugo 0.75.1 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Wed, 23 Sep 2020 05:21:21 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2020 05:32:43 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://xuchunyun.org/rss.xml" />
         
