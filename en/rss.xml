@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>许春昀文集</title>
-        <link>https://www.xuchunyun.org/en/</link>
+        <link>https://uchunyun.org/en/</link>
         <description>这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</description>
         <generator>Hugo 0.75.1 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 22 Sep 2020 12:47:15 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 14:22:03 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://www.xuchunyun.org/en/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://uchunyun.org/en/rss.xml" />
         
         
     </channel>

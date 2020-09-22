@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">许春昀文集</title>
     <subtitle type="html">这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</subtitle>
-    <updated>2020-09-22T12:47:15&#43;08:00</updated>
-    <id>https://www.xuchunyun.org/</id>
-    <link rel="alternate" type="text/html" href="https://www.xuchunyun.org/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://www.xuchunyun.org/atom.xml" />
+    <updated>2020-09-22T14:22:03&#43;08:00</updated>
+    <id>https://uchunyun.org/</id>
+    <link rel="alternate" type="text/html" href="https://uchunyun.org/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://uchunyun.org/atom.xml" />
     <author>
             <name>许春昀</name>
-            <uri>https://www.xuchunyun.org/</uri>
+            <uri>https://uchunyun.org/</uri>
             
                 <email>aaranxu@outlook.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.75.1">Hugo</generator>
         <entry>
             <title type="text">新的文章</title>
-            <link rel="alternate" type="text/html" href="https://www.xuchunyun.org/article/new-post/" />
-            <id>https://www.xuchunyun.org/article/new-post/</id>
+            <link rel="alternate" type="text/html" href="https://uchunyun.org/article/new-post/" />
+            <id>https://uchunyun.org/article/new-post/</id>
             <updated>2020-09-22T09:11:31&#43;08:00</updated>
             <published>2020-09-22T06:38:15&#43;08:00</published>
             <author>
@@ -41,7 +41,7 @@
                     
                     
                         
-                            <category scheme="https://www.xuchunyun.org/article/" term="article" label="article" />
+                            <category scheme="https://uchunyun.org/article/" term="article" label="article" />
                         
                     
                 
@@ -54,7 +54,7 @@
                             
                             
                             
-                                <category scheme="https://www.xuchunyun.org/tags/%E6%96%87%E7%AB%A0/" term="文章" label="文章" />
+                                <category scheme="https://uchunyun.org/tags/%E6%96%87%E7%AB%A0/" term="文章" label="文章" />
                             
                         
                     

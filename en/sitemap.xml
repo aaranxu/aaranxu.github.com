@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.xuchunyun.org/en/about/</loc>
+    <loc>https://uchunyun.org/en/about/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.xuchunyun.org/about/"
+                href="https://uchunyun.org/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.xuchunyun.org/en/about/"
+                href="https://uchunyun.org/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/en/</loc>
+    <loc>https://uchunyun.org/en/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.xuchunyun.org/"
+                href="https://uchunyun.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.xuchunyun.org/en/"
+                href="https://uchunyun.org/en/"
                 />
   </url>
   

@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.xuchunyun.org/article/</loc>
+    <loc>https://uchunyun.org/article/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/tags/</loc>
+    <loc>https://uchunyun.org/tags/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/tags/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://uchunyun.org/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/article/new-post/</loc>
+    <loc>https://uchunyun.org/article/new-post/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/</loc>
+    <loc>https://uchunyun.org/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.xuchunyun.org/en/"
+                href="https://uchunyun.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.xuchunyun.org/"
+                href="https://uchunyun.org/"
                 />
   </url>
   
   <url>
-    <loc>https://www.xuchunyun.org/about/</loc>
+    <loc>https://uchunyun.org/about/</loc>
     <lastmod>2020-09-22T09:11:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.xuchunyun.org/en/about/"
+                href="https://uchunyun.org/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.xuchunyun.org/about/"
+                href="https://uchunyun.org/about/"
                 />
   </url>
   
