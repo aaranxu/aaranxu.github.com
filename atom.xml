@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">许春昀文集</title>
     <subtitle type="html">这是许春昀的博客！用文章记录许春昀的生活和工作的感悟和思考的内容。许春昀是一位理想主义者，努力推动科普工作，让更多人认识到真正的科学！</subtitle>
-    <updated>2021-02-25T23:36:07&#43;08:00</updated>
+    <updated>2021-03-20T00:03:15&#43;08:00</updated>
     <id>https://xuchunyun.org/</id>
     <link rel="alternate" type="text/html" href="https://xuchunyun.org/" />
     <link rel="self" type="application/atom&#43;xml" href="https://xuchunyun.org/atom.xml" />
@@ -383,7 +383,7 @@
             <title type="text">科学的定义</title>
             <link rel="alternate" type="text/html" href="https://xuchunyun.org/article/definition-of-science/" />
             <id>https://xuchunyun.org/article/definition-of-science/</id>
-            <updated>2020-11-15T01:39:15&#43;08:00</updated>
+            <updated>2021-03-20T00:02:46&#43;08:00</updated>
             <published>2020-08-01T18:00:00&#43;08:00</published>
             <author>
                     <name>许春昀</name>
@@ -407,7 +407,7 @@
 &lt;h2 id=&#34;1-当前最广泛接受的科学定义&#34;&gt;1. 当前最广泛接受的“科学”定义&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;首先，我们了解什么是科学（即关于“科学”的定义）&lt;/strong&gt;。关于“什么是科学”这个问题，我们并不能像数学的一些命题那样下定义那样明确，比如“极限”、“偶数”等概念的定义我们都可以用精确的语言来描述，我们拿“偶数”来举例，其定义是：能被2整除的整数是偶数。而“科学”却无法用这样精确的语言文字来说明，就像数学上的“点”那样，是无法精确定义出来的，我们可以说“点是一个几何图形”，但这样的描述并不精确，同样“科学”这个词语类似，我们可以给出这样的定义：&lt;strong&gt;科学是人类解释和预测宇宙的系统性的知识体系&lt;/strong&gt;（百度百科&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://xuchunyun.org/article/definition-of-science/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;、维基百科&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://xuchunyun.org/article/definition-of-science/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;以及《现代汉语词典》里面对科学下定义的表述就跟这个差不多，各平台对科学解释的修饰语略有差异）。但是哲学、玄学或迷信一样是人类解释某类事物的知识体系，所以这样的定义是很含糊的。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://xuchunyun.org/images/science-in-xiandai-hanyu-cidian.jpg&#34; alt=&#34;“科学”在《现代汉语词典》中的解释&#34; title=&#34;“科学”在《现代汉语词典》（第 7 版 735 页）中的解释&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当前大多数词典或百科平台都将“科学”定义成某种知识体&lt;/strong&gt;系，这个体系本身是带有一些特点的，我们稍后将展开说明。但是在20世纪之前，欧洲各语言中将“科学”（英语： science、法语：science、德语：wissenschaft）是定义成宇宙的客观规律，而更早的古希腊语 &lt;span style=&#34;font-family:helvetica neue,helvetica,ubuntu,roboto,noto,arial,sans-serif;&#34;&gt;Επιστήμη&lt;/span&gt; 和拉丁文 scientia 最初的意思就是知识，没有任何修饰语。可以看到人类对“科学”的定义本身就在不断发展（关于“科学”这个词语在世界范围内的演化历史，将在后续文章详细阐明）。或许我们可以从“科学”的目的来定义，&lt;strong&gt;科学就是探求真理&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当前大多数词典或百科平台都将“科学”定义成某种知识体&lt;/strong&gt;系，这个体系本身是带有一些特点的，我们稍后将展开说明。但是在20世纪之前，欧洲各语言中将“科学”（英语： science、法语：science、德语：wissenschaft）是定义成宇宙的客观规律，而更早的古希腊语 &lt;span style=&#34;font-family:helvetica neue,helvetica,ubuntu,roboto,noto,arial,sans-serif;&#34;&gt;επιστήμη&lt;/span&gt; 和拉丁文 scientia 最初的意思就是知识，没有任何修饰语。可以看到人类对“科学”的定义本身就在不断发展（关于“科学”这个词语在世界范围内的演化历史，将在后续文章详细阐明）。或许我们可以从“科学”的目的来定义，&lt;strong&gt;科学就是探求真理&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;虽然我们当下是将“科学”定义成一种知识体系，但是“科学”这种知识体系是有一些区别于其他知识体系的特征的。通过这些特征，我们可以从众多知识体系中甄别出“科学”。下面我们将科学的几个重要特征列出来：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;质疑精神&lt;/strong&gt;，换句话理解就是科学具备反思、批判的特性。科学是反对盲从权威的，质疑精神是科学进步的根本。科学的发展始终伴随着人类对自然、对社会以及已有的科学知识体系进行质疑，包括对“科学”这个词语理解的不断质疑，从而构建出更有说服力的科学知识体系。科学的发展历程包括对过去科学的继承与否定，并且会有新的思考或实践成果加入其中。科学的这种质疑精神决定了科学理论不是由谁提出时间越长就越准确，也不是由谁声音大就谁准确，也不是用的人越多就越准确，而是越新的科学理论越是要超越过去的科学理论，这就是我们理解的更接近于真理。&lt;/li&gt;
